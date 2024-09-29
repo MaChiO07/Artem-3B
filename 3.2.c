@@ -3,7 +3,7 @@ int main(void) {
     
     int number;
 
-    printf("Scopri se il numero positivo o negativo: ");
+    printf("--Scopri se il numero positivo o negativo-- \n");
     scanf("%d", &number);
 
     if (number > 0) {
@@ -18,8 +18,6 @@ int main(void) {
         printf("numero e` negativo");
 
     }
-
-
 
     return 0;
 

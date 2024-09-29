@@ -4,6 +4,7 @@ int main(void) {
     char name;
     int age;
 
+    printf("--Calcolo dell`eta-- \n");
     printf("Inserire nome: ");
     scanf("%c", &name);
 
